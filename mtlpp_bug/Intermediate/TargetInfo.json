@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "mtlpp_bug",
+			"Path": "/Users/vel/unreal_mtlpp_bug/mtlpp_bug/Source/mtlpp_bug.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "mtlpp_bugEditor",
+			"Path": "/Users/vel/unreal_mtlpp_bug/mtlpp_bug/Source/mtlpp_bugEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

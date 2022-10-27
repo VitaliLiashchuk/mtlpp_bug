@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/vel/unreal_mtlpp_bug/mtlpp_bug/Source/mtlpp_bug/mtlpp_bug.Build.cs",
+		"/Users/vel/unreal_mtlpp_bug/mtlpp_bug/Source/mtlpp_bug.Target.cs",
+		"/Users/vel/unreal_mtlpp_bug/mtlpp_bug/Source/mtlpp_bugEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
