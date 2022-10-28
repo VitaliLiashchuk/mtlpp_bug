@@ -10,6 +10,7 @@ public class mtlpp_bugEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange( new string[] { "mtlpp_bug" } );
+        AddEngineThirdPartyPrivateStaticDependencies(Target, "MTLPP");
         if (Target.Platform == UnrealTargetPlatform.Mac)
         {
             bOverrideBuildEnvironment = true;
